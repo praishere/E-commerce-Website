@@ -1,8 +1,6 @@
-GitHub Copilot: Sure, here's an example README file for an E-commerce website project:
+# E-commerce shoe Website
 
-# E-commerce Website
-
-This is a web application for an E-commerce website. The website allows users to browse products, add them to their cart, and checkout. The website also has an admin panel for managing products, orders, and customers.
+This is a web application for an E-commerce shoe website. The website allows users to browse different-different shoe products, add them to their cart, and checkout. The website also has Razor Pay payment system.
 
 ## Getting Started
 
@@ -19,7 +17,7 @@ The website has the following features:
 - Browse products by category or search for specific products.
 - Add products to cart and checkout.
 - View order history and track order status.
-- Admin panel for managing products, orders, and customers.
+- It also have Razor pay payment system to buy products.
 
 ## Technologies Used
 
