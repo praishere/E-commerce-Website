@@ -26,6 +26,7 @@ The website is built using the following technologies:
 - React.js for the frontend.
 - Node.js and Express.js for the backend.
 - MongoDB for the database.
+- Tailwind css, HTML, CSS, Javascript
 
 ## Contributing
 
